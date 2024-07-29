@@ -1,0 +1,18 @@
+{
+  "data": {
+    "name": "YouBike",
+    "timezone": "Asia/Taipei",
+    "short_name": "YouBike",
+    "purchase_url": "https://bluebikes.com/signup",
+    "operator": "Motivate International, Inc.",
+    "email": "customerservice@bluebikes.com",
+    "phone_number": "877-452-6699",
+    "language": "en",
+    "url": "http://bluebikes.com",
+    "system_id": "youbike",
+    "start_date": "2011-07-28"
+  },
+  "last_updated": 1709018022,
+  "ttl": 60,
+  "version": "1.1"
+}
